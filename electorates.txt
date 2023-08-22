@@ -1,0 +1,39 @@
+Mount Viccep
+10837
+Mount Viccep is a sprawling town at the foot of a mountain. It is known for its sports team.
+
+Legoulkesea Creek
+2581
+Legoulkesea Creek is a coastal, small city, known for its space programme.
+
+Buspiega Creek
+9718
+Buspiega Creek is a large town on the edge of a beautiful estuary. It is known for conservative values.
+
+Markgai
+7692
+Markgai is a large town, known for being the birthplace of a film star.
+
+Lesleigh
+3775
+Lesleigh is a small city, known for its mining heritage.
+
+Yassnis Hill
+1567
+Yassnis Hill is a small town, well know for its castle.
+
+Princekurla Beach
+8578
+Princekurla Beach is a coastal, large town, known for tourism.
+
+Port Bairnsby
+2616
+Port Bairnsby is a coastal, small town know for being the birthplace of indie rock music.
+
+Smiham Bay
+2897
+Smiham Bay is a coastal small town, known for its sport arena.
+
+Port Nyky
+9500
+Port Nyky is a coastal, sprawling town, known for the Port Nyky music festival.

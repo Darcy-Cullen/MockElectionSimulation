@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1652334985 source:c:\university\csci251\c++\ape\main.cpp
+	<iostream>
+	"ape_header.h"
+
+1652361208 c:\university\csci251\c++\ape\ape_header.h
+	<vector>
+	<iterator>
+	<map>
+	<iomanip>
+
+1652362391 source:c:\university\csci251\c++\ape\ape.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<iterator>
+	<map>
+	<random>
+	"time.h"
+	"ape_header.h"
+
+1651739815 c:\university\csci251\c++\ape\ape.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	<iterator>
+	<map>
+	<random>
+	"time.h"
+	"ape_header.h"
+
